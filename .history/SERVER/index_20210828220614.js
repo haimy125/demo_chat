@@ -1,0 +1,1 @@
+var app = express(); //khai bao server
